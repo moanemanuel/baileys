@@ -1,4 +1,3 @@
-Você está quase sem armazenamento (95%). … Em breve não será possível fazer upload de novos arquivos no Google Drive nem enviar ou receber e-mails no Gmail.Saiba mais
 const makeWaSocket = require('@adiwajshing/baileys').default;
 const { delay, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion } = require('@adiwajshing/baileys');
 const P = require('pino');
