@@ -13,7 +13,7 @@
     "test": "nodemon ./index.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^4.0.1",
+    "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^4.17.3",
     "express-validator": "^6.14.0",
